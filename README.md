@@ -7,7 +7,7 @@
  * KELAS     : PBO2
  * NIM       : 10118052
  * Deskripsi Program : Program ini bertujuan untuk melihat nilai terbesar dan 
- * terkecil dari mahasiswa 
+ * terkecil dari mahasiswa.
  * 
  */
  ```
